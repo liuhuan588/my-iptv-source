@@ -1,0 +1,160 @@
+#EXTM3U
+#EXTINF:-1 group-title="央视-IPv4",CCTV-1 综合
+https://live.cctv.com/hls/cctv1/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-2 财经
+https://live.cctv.com/hls/cctv2/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-3 综艺
+https://live.cctv.com/hls/cctv3/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-4 中文国际
+https://live.cctv.com/hls/cctv4/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-5 体育
+https://live.cctv.com/hls/cctv5/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-5+ 体育赛事
+https://live.cctv.com/hls/cctv5plus/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-6 电影
+https://live.cctv.com/hls/cctv6/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-7 国防军事
+https://live.cctv.com/hls/cctv7/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-8 电视剧
+https://live.cctv.com/hls/cctv8/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-9 纪录
+https://live.cctv.com/hls/cctv9/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-10 科教
+https://live.cctv.com/hls/cctv10/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-11 戏曲
+https://live.cctv.com/hls/cctv11/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-12 社会与法
+https://live.cctv.com/hls/cctv12/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-13 新闻
+https://live.cctv.com/hls/cctv13/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-14 少儿
+https://live.cctv.com/hls/cctv14/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-15 音乐
+https://live.cctv.com/hls/cctv15/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-16 奥林匹克
+https://live.cctv.com/hls/cctv16/1080p.m3u8
+#EXTINF:-1 group-title="央视-IPv4",CCTV-17 农业农村
+https://live.cctv.com/hls/cctv17/1080p.m3u8
+
+#EXTINF:-1 group-title="卫视-IPv4",北京卫视
+http://223.108.215.130:5000/btv1.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",天津卫视
+http://223.108.215.130:5000/tjstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",河北卫视
+http://223.108.215.130:5000/hebtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",山西卫视
+http://223.108.215.130:5000/sxtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",内蒙古卫视
+http://223.108.215.130:5000/nmtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",辽宁卫视
+http://223.108.215.130:5000/lntv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",吉林卫视
+http://223.108.215.130:5000/jltv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",黑龙江卫视
+http://223.108.215.130:5000/hljtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",东方卫视
+http://223.108.215.130:5000/dftv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",江苏卫视
+http://223.108.215.130:5000/jstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",浙江卫视
+http://223.108.215.130:5000/zjtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",安徽卫视
+http://223.108.215.130:5000/ahtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",东南卫视
+http://223.108.215.130:5000/dnstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",江西卫视
+http://223.108.215.130:5000/jxtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",山东卫视
+http://223.108.215.130:5000/sdtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",河南卫视
+http://223.108.215.130:5000/hnstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",湖北卫视
+http://223.108.215.130:5000/hbtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",湖南卫视
+http://223.108.215.130:5000/hntv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",广东卫视
+http://223.108.215.130:5000/gdtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",广西卫视
+http://223.108.215.130:5000/gxtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",海南卫视
+http://223.108.215.130:5000/hntv2.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",重庆卫视
+http://223.108.215.130:5000/cqtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",四川卫视
+http://223.108.215.130:5000/sctv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",贵州卫视
+http://223.108.215.130:5000/gztv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",云南卫视
+http://223.108.215.130:5000/yntv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",西藏卫视
+http://223.108.215.130:5000/xztv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",陕西卫视
+http://223.108.215.130:5000/sxstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",甘肃卫视
+http://223.108.215.130:5000/gstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",青海卫视
+http://223.108.215.130:5000/qhtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",宁夏卫视
+http://223.108.215.130:5000/nxstv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",新疆卫视
+http://223.108.215.130:5000/xjtv.m3u8
+#EXTINF:-1 group-title="卫视-IPv4",深圳卫视
+http://223.108.215.130:5000/sztv.m3u8
+
+#EXTINF:-1 group-title="河南省级-IPv4",河南都市频道
+http://39.164.164.132:9901/tsfile/live/1045_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="河南省级-IPv4",河南戏曲频道
+http://39.164.164.132:9901/tsfile/live/1048_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="河南省级-IPv4",河南民生频道
+http://tv.sohu.blog/d/hendx.php?id=hnms
+#EXTINF:-1 group-title="河南省级-IPv4",河南法治频道
+http://39.164.164.132:9901/tsfile/live/1046_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="河南省级-IPv4",河南电视剧频道
+http://39.164.164.132:9901/tsfile/live/1047_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="河南省级-IPv4",河南新闻频道
+http://39.164.164.132:9901/tsfile/live/1049_1.m3u8?key=txiptv
+#EXTINF:-1 group-title="河南省级-IPv4",河南公共频道
+http://123.14.80.225:9003/hls/59/index.m3u8
+#EXTINF:-1 group-title="河南省级-IPv4",河南乡村频道
+http://123.14.80.225:9003/hls/60/index.m3u8
+#EXTINF:-1 group-title="河南省级-IPv4",河南梨园频道
+http://123.14.80.225:9003/hls/62/index.m3u8
+#EXTINF:-1 group-title="河南省级-IPv4",河南武术世界
+http://live.dxhmt.cn:9080/live/yshnpre.m3u8
+
+#EXTINF:-1 group-title="河南地方-IPv4",郑州新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10182-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",开封新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10323-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",洛阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10325-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",平顶山新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10327-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",安阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10421-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",鹤壁新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10422-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",新乡新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10425-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",焦作新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10526-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",濮阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10527-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",许昌新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10721-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",漯河新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10825-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",三门峡新闻综合
+http://tvpull.dxhmt.cn:9081/tv/10882-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",南阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11024-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",商丘新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11081-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",信阳新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",周口新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",驻马店新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11282-1.m3u8
+#EXTINF:-1 group-title="河南地方-IPv4",济源新闻综合
+http://tvpull.dxhmt.cn:9081/tv/11322-1.m3u8
